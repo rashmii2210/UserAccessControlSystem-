@@ -19,11 +19,15 @@ This project demonstrates a secure and efficient user management system using JS
 
 ## 🛠️ Technologies Used
 
-- **JSP** (Java Server Pages) – Dynamic web pages
-- **Java Servlets** – HTTP request/response processing
-- **JDBC** – MySQL database connectivity
-- **MySQL** – Backend database
-- **Apache Tomcat** – Web server
+| Technology | Purpose |
+|---|---|
+| ☕ Java | Backend Programming |
+| 🌐 JSP | Dynamic Web Pages |
+| 🔄 Servlets | Request Handling |
+| 🗃️ JDBC | Database Connectivity |
+| 🐬 MySQL | Database Management |
+| 🚀 Apache Tomcat | Web Server |
+| 🎨 HTML/CSS | Frontend UI |
 
 ## 📁 Project Structure
 
