@@ -6,6 +6,17 @@ A web-based Java project built as part of the **Web Based Java Programming** (Su
 
 This project demonstrates a secure and efficient user management system using JSP, Servlets, and MySQL. It covers user registration, login with session management, and a personalized profile page.
 
+## 📸 Screenshots
+
+### Registration Page
+![Register](screenshots/register.png)
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Profile/Welcome Page
+![Profile](screenshots/profile.png)
+
 ## 🛠️ Technologies Used
 
 - **JSP** (Java Server Pages) – Dynamic web pages
