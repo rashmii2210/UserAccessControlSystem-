@@ -1,6 +1,6 @@
 # User Access Control System
 
-A web-based Java project built as part of the **Web Based Java Programming** (Subject Code: 4350708) course at Gujarat Technological University.
+A web-based Java project developed as part of the **Web Based Java Programming** (Course Code: 4350708) course in the Diploma Engineering program at Gujarat Technological University (GTU).
 
 ## 📋 Project Overview
 
