@@ -9,13 +9,13 @@ This project demonstrates a secure and efficient user management system using JS
 ## 📸 Screenshots
 
 ### Registration Page
-![Register](screenshots/register.png)
+![Register](screenshots/Register.png)
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](screenshots/Login.png)
 
 ### Profile/Welcome Page
-![Profile](screenshots/profile.png)
+![Profile](screenshots/Profile.png)
 
 ## 🛠️ Technologies Used
 
