@@ -88,7 +88,3 @@ CREATE TABLE register (
 4. Deploy on Apache Tomcat (v10+)
 5. Open `http://localhost:8080/UserAccessControlSystem/Register.jsp`
 
-
-## 📅 Submitted
-
-October 22, 2024 — Semester 5, Dipoma in Computer Engineering 
