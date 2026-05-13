@@ -42,9 +42,9 @@ UserAccessControlSystem/
 │           └── WEB-INF/
 │               └── web.xml
 ├── screenshots/
-│   ├── register.png
-│   ├── login.png
-│   └── profile.png
+│   ├── Register.png
+│   ├── Login.png
+│   └── Profile.png
 └── README.md
 ```
 
