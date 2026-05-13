@@ -41,6 +41,10 @@ UserAccessControlSystem/
 │           ├── Profile.jsp            # Welcome/Profile page
 │           └── WEB-INF/
 │               └── web.xml
+├── screenshots/
+│   ├── register.png
+│   ├── login.png
+│   └── profile.png
 └── README.md
 ```
 
@@ -81,3 +85,6 @@ CREATE TABLE register (
 5. Open `http://localhost:8080/UserAccessControlSystem/Register.jsp`
 
 
+## 📅 Submitted
+
+October 22, 2024 — Semester 5, Dipoma in Computer Engineering 
